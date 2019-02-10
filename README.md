@@ -6,3 +6,7 @@ depending on the sensor capability).
 
 Additionally, to be able to get the maximum Page Number that the sensor can store, 
 the code has a procedure called as "getMaxPageNumber()".
+
+To reflect the changes into your files:
+1. Check the references section of Arduino Program and find out the location of AdaFruit_Fingerprint Library files you have already copied before.
+2. Replace the files covered in this project with the files in your computer or copy the attached files to your computer after renaming the previous files. 
